@@ -4,8 +4,8 @@ This project provides a data-driven approach to **segmenting customers** of a gr
 
 ---
 
-👉 **[View full results (HTML)](https://reha-hazir.github.io/manufacturing-defect-detection-model/main.html)**
-👉 **[View the thesis (HTML)](https://reha-hazir.github.io/manufacturing-defect-detection-model/main.html)**
+👉 **[View full results (HTML)](https://reha-hazir.github.io/customer-segmentation-thesis-project/main)**
+👉 **[View the thesis (HTML)](https://reha-hazir.github.io/customer-segmentation-thesis-project/thesis)**
 
 ---
 
@@ -78,8 +78,8 @@ Include charts, graphs, and visuals of the **PCA results**, **silhouette analysi
 
 ---
 
-👉 **[View full results (HTML)](https://reha-hazir.github.io/manufacturing-defect-detection-model/main.html)**
-👉 **[View the thesis (HTML)](https://reha-hazir.github.io/manufacturing-defect-detection-model/main.html)**
+👉 **[View full results (HTML)](https://reha-hazir.github.io/customer-segmentation-thesis-project/main)**
+👉 **[View the thesis (HTML)](https://reha-hazir.github.io/customer-segmentation-thesis-project/thesis)**
 
 ---
 
